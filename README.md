@@ -7,9 +7,9 @@
 
 
 ## 3 μερος : 
-'''cmd
+
 python -m venv venv
-cmd'''
+
 
 Ενεργοποίηση: 
 venv\Scripts\activate
