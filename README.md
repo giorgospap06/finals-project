@@ -7,6 +7,20 @@
 
 
 3 μερος 
-'''cmd
 python -m venv venv
+
+Ενεργοποίηση:
+venv\Scripts\activate
+
+Εγκατάσταση βιβλιοθήκης:
+pip install requests
+
+
+Δημιουργία αρχείου εξαρτήσεων:
+pip freeze > requirements.txt
+
+
+Εκτέλεση script:
+python wp_manager.py
+
 
