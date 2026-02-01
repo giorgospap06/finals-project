@@ -24,3 +24,7 @@ pip freeze > requirements.txt
 python wp_manager.py
 
 
+screen shots
+<img width="1663" height="931" alt="image" src="https://github.com/user-attachments/assets/045b0276-b214-4053-aa76-5f17aa3f3585" />
+
+
